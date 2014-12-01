@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>OWCaptureActivity</name>
+	<name>ZWCaptureActivity</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -32,14 +32,24 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>java</name>
+			<name>android-core</name>
 			<type>2</type>
-			<location>/Users/stephenmorse/Documents/GitHub/OneWallet/zxing/core/src/main/java</location>
+			<location>/Users/justin/Documents/workspace/ZiftrWallet/zxing/android-core/src/main/java</location>
 		</link>
 		<link>
-			<name>java_android_core</name>
+			<name>core</name>
 			<type>2</type>
-			<location>/Users/stephenmorse/Documents/GitHub/OneWallet/zxing/android-core/src/main/java</location>
+			<location>/Users/justin/Documents/workspace/ZiftrWallet/zxing/core/src/main/java</location>
+		</link>
+		<link>
+			<name>main</name>
+			<type>2</type>
+			<location>/Users/justin/Documents/workspace/OneWallet/zxing/core/src/main</location>
+		</link>
+		<link>
+			<name>srcdsf</name>
+			<type>2</type>
+			<location>/Users/justin/Documents/workspace/OneWallet/zxing/android/src</location>
 		</link>
 	</linkedResources>
 </projectDescription>
